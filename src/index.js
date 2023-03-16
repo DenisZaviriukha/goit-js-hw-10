@@ -19,6 +19,7 @@ screachBox.addEventListener('input', debounce(() => {
 ) 
 
 //.catch(() => { return Notify.failure('Oops, there is no country with that name') })
+
 // onScreachboxInput.then(response => {amountOfCountryCheck(response)}.then
 
 function onScreachboxInput(){
